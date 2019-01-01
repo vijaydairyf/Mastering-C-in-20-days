@@ -24,4 +24,5 @@ string i="Hello";	//string variable, not primitive (user defined data type in C+
 cout<<i<<endl;
 
 bool flag=true;		// boolean variable contains oen of the two types of values "True" or "false" , (only in C++)
+  return 0;
 }
